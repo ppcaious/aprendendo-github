@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Olá meu nome é caio de almeida
-=======
+
 Olá meu nome é caio
 Olá eu sou uma nova linha!
->>>>>>> 649b9e4c512dd5e62993dda2c2cb5eca3cc9831b
+
